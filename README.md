@@ -14,9 +14,9 @@ I am a passionate web developer with expertise in 🌐 web technologies and a st
   - Description: [Food-Delivery Graduate Project] Short description
 
 ## Contact
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+- Email: [ibrahemdh7@gmail.com](ibrahemdh7@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ibrahemdh7/)
+- Twitter: [@ibrahemdh7](https://twitter.com/yourTwitterHandle)
 
 Feel free to reach out to me for collaborations or discussions!
 
