@@ -1,5 +1,4 @@
-# [Ibrahem Dhaher] 👩‍💻
-
+# [Ibrahem Dhaher] 👨‍💻
 
 ## About Me
 I am a passionate web developer with expertise in 🌐 web technologies and a strong interest in the 🌈 intersection of code and design.
