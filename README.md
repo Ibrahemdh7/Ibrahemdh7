@@ -1,13 +1,13 @@
-# [Your Name]
+# [ibrahem dhaher] 👩‍💻
 
 ![Profile Image](link-to-image)
 
 ## About Me
-I am a passionate web developer with expertise in [mention your skills/technologies].
+I am a passionate web developer with expertise in 🌐 web technologies and a strong interest in the 🌈 intersection of code and design.
 
-## Projects
-- [Project 1](link-to-project1): Short description
-- [Project 2](link-to-project2): Short description
+## Some of My Projects
+- Clean app (https://github.com/Ibrahemdh7/CleanApp): Created a React Native cleaning service app with sleek UI, powered by Firebase for a robust backend, and styled using Tailwind CSS for a seamless user experience. 🧹✨
+- Food-Delivery gradeuate Project(https://github.com/Ibrahemdh7/Gradeuate-Project):
 
 ## Contact
 - Email: [your@email.com](mailto:your@email.com)
