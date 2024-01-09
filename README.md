@@ -11,8 +11,8 @@ I am a passionate web developer with expertise in 🌐 web technologies and a st
 
 - **Graduate Project**
   - GitHub: [Graduate Project Repository](https://github.com/Ibrahemdh7/Gradeuate-Project)
-  - Description: [Food-Delivery Graduate Project] Short description
-  - 
+  - Description: [Food-Delivery Graduate Project] Developed a feature-rich food delivery app for my graduation project, using Ionic, Angular, and Firebase. Implemented Google Maps API for precise location services, demonstrating proficiency in a variety of technologies learned during my specialization. 🍔🚀
+  
 ## Contact
 - **Email:** [ibrahemdh7@gmail.com](mailto:ibrahemdh7@gmail.com) 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ibrahemdh7/) ![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)
