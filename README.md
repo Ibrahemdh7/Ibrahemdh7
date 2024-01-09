@@ -7,7 +7,8 @@ I am a passionate web developer with expertise in 🌐 web technologies and a st
 
 ## Some of My Projects
 - Clean app (https://github.com/Ibrahemdh7/CleanApp): Created a React Native cleaning service app with sleek UI, powered by Firebase for a robust backend, and styled using Tailwind CSS for a seamless user experience. 🧹✨
-- Food-Delivery gradeuate Project(https://github.com/Ibrahemdh7/Gradeuate-Project):
+- Project(https://github.com/Ibrahemdh7/Gradeuate-Project):
+- - [Food-Delivery gradeuate ](https://github.com/Ibrahemdh7/Gradeuate-Project)): Short description
 
 ## Contact
 - Email: [your@email.com](mailto:your@email.com)
