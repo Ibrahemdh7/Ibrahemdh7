@@ -12,11 +12,10 @@ I am a passionate web developer with expertise in 🌐 web technologies and a st
 - **Graduate Project**
   - GitHub: [Graduate Project Repository](https://github.com/Ibrahemdh7/Gradeuate-Project)
   - Description: [Food-Delivery Graduate Project] Short description
-
+  - 
 ## Contact
 - Email: [ibrahemdh7@gmail.com](ibrahemdh7@gmail.com)
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/ibrahemdh7/](https://www.linkedin.com/in/%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B8%D8%A7%D9%87%D8%B1-48b34520b/))
-- Twitter: [@ibrahemdh7]([https://twitter.com/yourTwitterHandle](https://twitter.com/ibrahemdh7))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ibrahemdh7/) ![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)
+- Twitter: [@ibrahemdh7](https://twitter.com/ibrahemdh7) ![Twitter Logo](https://img.icons8.com/color/48/000000/twitter.png)
 
-Feel free to reach out to me for collaborations or discussions!
 
