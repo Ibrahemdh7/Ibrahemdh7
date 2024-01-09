@@ -1,8 +1,7 @@
 # [Ibrahem Dhaher] 👨‍💻
 
 ## About Me
-I am a passionate web developer with expertise in 🌐 web technologies and a strong interest in the 🌈 intersection of code and design.
-
+Mobile Developer experienced in React.js for web development, with additional skills in mobile app creation and basic SQL Server database management. Seeking a challenging software development role to contribute effectively and grow within a dynamic team. 📱💻🚀
 ## Some of My Projects
 
 - **Clean App**
