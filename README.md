@@ -15,7 +15,9 @@ I am a passionate web developer with expertise in 🌐 web technologies and a st
   
 ## Contact
 - **Email:** [ibrahemdh7@gmail.com](mailto:ibrahemdh7@gmail.com) 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ibrahemdh7/) ![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)
-- **Twitter(X):** [@ibrahemdh7](https://twitter.com/ibrahemdh7) ![Twitter Logo](https://img.icons8.com/color/48/000000/twitter.png)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ibrahemdh7/)
+- ![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)
+- **Twitter(X):** [@ibrahemdh7](https://twitter.com/ibrahemdh7)
+- ![Twitter Logo](https://img.icons8.com/color/48/000000/twitter.png)
 
 
