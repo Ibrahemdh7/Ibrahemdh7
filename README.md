@@ -5,11 +5,11 @@ Mobile Developer experienced in React.js for web development, with additional sk
 ## Some of My Projects
 
 - **Clean App**
-  - GitHub: [Clean App Repository](https://github.com/Ibrahemdh7/CleanApp)
+  - GitHub: [Clean App](https://github.com/Ibrahemdh7/CleanApp)
   - Description: Created a React Native cleaning service app with a sleek UI, powered by Firebase for a robust backend, and styled using Tailwind CSS for a seamless user experience. 🧹✨
 
 - **Graduate Project**
-  - GitHub: [Graduate Project Repository](https://github.com/Ibrahemdh7/Gradeuate-Project)
+  - GitHub: [Graduate Project ](https://github.com/Ibrahemdh7/Gradeuate-Project)
   - Description: [Food-Delivery Graduate Project] Developed a feature-rich food delivery app for my graduation project, using Ionic, Angular, and Firebase. Implemented Google Maps API for precise location services, demonstrating proficiency in a variety of technologies learned during my specialization. 🍔🚀
   
 ## Contact
