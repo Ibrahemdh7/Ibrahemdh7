@@ -1,6 +1,5 @@
 # [Ibrahem Dhaher] 👩‍💻
 
-<img src="https://github.com/Ibrahemdh7/ibrahemdh7/blob/main/myPhoto.jpeg" alt="Profile Image" width="200" height="250">
 
 ## About Me
 I am a passionate web developer with expertise in 🌐 web technologies and a strong interest in the 🌈 intersection of code and design.
